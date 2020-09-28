@@ -1,0 +1,629 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", *UNIVISION DEPORTES
+http://f.ok2.se:8000/victor1/victor123/423
+
+#EXTINF:-1 tvg-logo="http://www.deltatre.com/wp-content/uploads/2014/02/300px-black.png" group-title="DEPORTES/ESPORTES",UNIVISION DEPORTES (LAT)
+http://niobzca.cf:8080/WilliamCor701/GimCGwWNxJ/68463
+
+#EXTINF:-1 tvg-id="" tvg-name="DEP-MEX Afizzionados" tvg-logo="https://1.bp.blogspot.com/-9q6PqMJgbL8/XyJA1AIVgoI/AAAAAAAAAkA/2JqmEauHFoo_eEoK3db9gq3dTaC-cKihACLcBGAsYHQ/w200-h200/affi.png" group-title="DEPORTES",Afizzionados 
+http://tvpremiumhd.club/lista-gratuita/181527/tv/live.php?id=54813
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/webadictos.com/media/2018/06/izzi-affizionados.jpg" group-title="DEPORTES/ESPORTES",IZZI AFIZZIONADOS
+http://niobzca.cf:8080/WilliamCor701/GimCGwWNxJ/133017
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7KCBnxD.png" group-title="DEPORTES",IZZI AFIZZIONADOS HD
+http://tvpremiumhd.club/lista-gratuita/213011/tv/live.php?id=2434
+
+#EXTINF:0,Affizionados | ENTRETENIMIENTO LATINO
+http://flowfhd.xyz:25461/TKSK1ScQsG/sdlpefeflrmdowp26f1r564f3/69016
+
+#EXTINF:-1,ESPN
+http://23.237.54.42/hls/ESPNMX.m3u8
+
+#EXTINF:-1,ESPN 2
+http://23.237.54.42/hls/ESPN2MX.m3u8
+
+#EXTINF:-1,ESPN 3
+http://23.237.54.42/hls/ESPN3MX.m3u8
+
+#EXTINF:-1,FOXSPORTS
+http://23.237.54.42/hls/FOXSPORTSMX.m3u8
+
+#EXTINF:-1,FOXSPORTS 2
+http://23.237.54.42/hls/FOXSPORTS2MX.m3u8
+
+#EXTINF:-1,FOXSPORTS 3
+http://23.237.54.42/hls/FOXSPORTS3MX.m3u8
+
+#EXTINF:-1, TUDN
+http://regioflix.club/Sr_Regio20/tp.php?c=174&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="DEPORTES - TUDN" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="DEPORTES",TUDN
+http://tvpremiumhd.club/lista-gratuita/211527/tv/live.php?id=1548
+
+#EXTINF:-1, TUDN HD (2)
+http://regioflix.club/Sr_Regio20/tp.php?c=1049&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1 tvg-logo="http://elementserver1.000webhostapp.com/app.png" group-title="MEXICO",Claro Sports MX
+http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
+
+#EXTINF:-1, CLARO SPORTS HD  
+http://regioflix.club/Sr_Regio20/tp.php?c=2564&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, TVC DEPORTES
+http://regioflix.club/Sr_Regio20/tp.php?c=2157&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, ADRENALINA SPORTS HD
+http://regioflix.club/Sr_Regio20/tp.php?c=1799&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, LAS
+http://regioflix.club/Sr_Regio20/tp.php?c=2089&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-ID="DEPORTES: WWE HD" tvg-name="DEPORTES: WWE HD" tvg-logo="https://i.imgur.com/pegoDNs.jpg" group-title="DEPORTES",DEPORTES: WWE HD
+http://tvpremiumhd.club/lista-gratuita/183003/tv/live.php?id=1125
+
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="DEPORTES - NBA U" tvg-logo="https://1.bp.blogspot.com/-ri_Nr0yAHbc/XhA3NrtQMlI/AAAAAAAAA7g/POn3E9DM87w21_EvZWEi5D-YQCNLepdiACLcBGAsYHQ/s200/29.png" group-title="DEPORTES",NBA U
+http://tvpremiumhd.club/lista-gratuita/211527/tv/live.php?id=2873
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL3yGNjg04bArAFATthvYBXJ_TS2UCzLw1rcs-pOBelB0DIWAU" group-title="DEPORTES/ESPORTES",SPORT TV 2 (PT)
+http://62.210.124.106:8000/live/aplicacao/scp4ever/11.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8btmXxM-f9rwFEeFGEEYMrdQ5HbjWNGsS_BxRgFWfFihXjfKd" group-title="DEPORTES/ESPORTES",SPORT TV 3 (PT)
+http://62.210.124.106:8000/live/aplicacao/scp4ever/12.ts
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-kITLJJTtFZc/Tw9nNRMF1YI/AAAAAAAABCo/L9vxFb5rCzc/s400/sport_tv_4.png" group-title="DEPORTES/ESPORTES",SPORT TV 4 (PT)
+http://62.210.124.106:8000/live/aplicacao/scp4ever/13.ts
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ekV3wEX.png" group-title="DEPORTES/ESPORTES",SPORT TV 5 (PT)
+http://62.210.124.106:8000/live/aplicacao/scp4ever/14.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/stadium.png" group-title="DEPORTES/ESPORTES",STADIUM SPORTS (USA)
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/cover-canali/supertennis_hd.jpg" group-title="DEPORTES/ESPORTES",SUPER TENNIS
+
+#EXTINF:-1 tvg-logo="https://deltafonts.com/wp-content/uploads/Tennis-Channel-logo.png" group-title="DEPORTES/ESPORTES",TENNIS CHANNEL HD
+
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="DEPORTES - Tennis Channel" tvg-logo="https://1.bp.blogspot.com/-UHbphuMzTLI/Xjb-ajdIv1I/AAAAAAAABA0/W2Dhehq7thsNNu92yKs9orPOD9LLYaddACLcBGAsYHQ/s200/34.png" group-title="DEPORTES",Tennis Channel
+http://tvpremiumhd.club/lista-gratuita/211527/tv/live.php?id=23132
+
+#EXTINF:-1, HAVOC
+http://regioflix.club/Sr_Regio20/tp.php?c=2148&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, FUEL TV HD 
+http://regioflix.club/Sr_Regio20/tp.php?c=2587&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, GOLF
+http://regioflix.club/Sr_Regio20/tp.php?c=179&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, AYM SPORTS
+http://regioflix.club/Sr_Regio20/tp.php?c=180&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVdAWvHK0jdTT2tHljMYdq_XEPmr9bQWkerZhrtDbKvY4qf3L" group-title="DEPORTES/ESPORTES",UFC FIGHTING (LAT)
+
+#EXTINF:-1 tvg-logo="http://elementserver1.000webhostapp.com/app.png" group-title="USA",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+
+#EXTINF:-1 tvg-logo="http://blogs.elcolombiano.com/capsulas/wp-content/uploads/2010/05/goltv.jpg" group-title="DEPORTES/ESPORTES",GOL TV (ESP)
+
+#EXTINF:-1 tvg-logo="http://blogs.elcolombiano.com/capsulas/wp-content/uploads/2010/05/goltv.jpg" group-title="DEPORTES/ESPORTES",GOL TV (LAT)
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES/ESPORTES",DIRECTV SPORTS HD (LAT)
+http://niobzca.cf:8080/WilliamCor701/GimCGwWNxJ/68872
+
+#EXTINF:-1  tvg-logo="https://2.bp.blogspot.com/-HN8t4AqICTY/WyXsANIos-I/AAAAAAAAAyg/q3q6qyLrMZAhBtF1e6z36WVCztbmxUaQQCLcBGAs/s1600/directvsports2.jpg" group-title="DEPORTES/ESPORTES",DIRECTV SPORTS 2 (LAT)
+
+#EXTINF:0,EUROSPORT 1 ENG
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8?/CISNEROSPRIVATE.m3u8
+
+#EXTINF:-1 tvg-logo="https://satsis.info/uploads/posts/2016-01/1453717931_www.satsis.info__eurosport-1.jpg" group-title="DEPORTES/ESPORTES",EUROSPORT 1 (ESP)
+
+#EXTINF:-1 tvg-logo="https://satsis.info/uploads/posts/2016-01/1453717931_www.satsis.info__eurosport-1.jpg" group-title="DEPORTES/ESPORTES",EUROSPORT 1 HD (ESP)
+
+#EXTINF:-1  tvg-logo="https://www.comparaiso.es/sites/comparaiso.es/files/images/logos/bein-laliga-200x300.png" group-title="DEPORTES/ESPORTES",BEIN Ñ SPORTS
+http://niobzca.cf:8080/WilliamCor701/GimCGwWNxJ/116125
+
+#EXTINF:-1  tvg-logo="https://www.comparaiso.es/sites/comparaiso.es/files/images/logos/bein-laliga-200x300.png" group-title="DEPORTES/ESPORTES",BEIN SPORTS LA LIGA
+http://niobzca.cf:8080/WilliamCor701/GimCGwWNxJ/123169
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156116/premiere.png?v=636446348764830000" group-title="DEPORTES/ESPORTES",PREMIERE 2
+http://play.v4tv.com.br:80/Dimond/@dimond@/33044
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156116/premiere.png?v=636446348764830000" group-title="DEPORTES/ESPORTES",PREMIERE 3
+http://play.v4tv.com.br:80/Dimond/@dimond@/33043
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156116/premiere.png?v=636446348764830000" group-title="DEPORTES/ESPORTES",PREMIERE 4
+http://play.v4tv.com.br:80/Dimond/@dimond@/33042
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156116/premiere.png?v=636446348764830000" group-title="DEPORTES/ESPORTES",PREMIERE 5
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156116/premiere.png?v=636446348764830000" group-title="DEPORTES/ESPORTES",PREMIERE 6
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156116/premiere.png?v=636446348764830000" group-title="DEPORTES/ESPORTES",PREMIERE 7
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156116/premiere.png?v=636446348764830000" group-title="DEPORTES/ESPORTES",PREMIERE 8
+
+#EXTINF:-1 tvg-logo="http://orientalnewsng.com/wp-content/uploads/2018/05/LaLiga.png" group-title="DEPORTES/ESPORTES",LA LIGA (ESP)
+
+#EXTINF:-1 tvg-logo="http://sportsradiopd.com/wp-content/uploads/2015/03/MLB-Network.jpg" group-title="DEPORTES/ESPORTES",MLB (USA)
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-deportes1.jpg.pagespeed.ic.SoG88VrpZw.jpg" group-title="DEPORTES/ESPORTES",MOVISTAR DEPORTES (ESP)
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-deportes1.jpg.pagespeed.ic.SoG88VrpZw.jpg" group-title="DEPORTES/ESPORTES",MOVISTAR DEPORTES HD (ESP)
+
+#EXTINF:-1 tvg-logo="https://cdn77.motor.es/fotos-noticias/2018/01/min652x435/movistar-renueva-contrato-emision-f1-201842591_1.jpg" group-title="DEPORTES/ESPORTES",MOVISTAR FORMULA 1 (ESP)
+
+#EXTINF:-1 tvg-logo="https://www.comparaiso.es/images/movistra-partidazo.png" group-title="DEPORTES/ESPORTES",MOVISTAR FUTBOL (ESP)
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlAZxB4-Alkq0_3_CMTJLu24wpoO9-NiHzyrdlLaI8pSw1rfT" group-title="DEPORTES/ESPORTES",MOVISTAR  MOTO GP (ESP)
+
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="DEPORTES",Abu Dhabi Sports
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?xtreamiptv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="DEPORTES",Abu Dhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?xtreamiptv.m3u8
+
+
+#EXTINF:-1,AZMUNDO
+http://23.237.54.42/hls/AZMUNDOMX.m3u8
+
+#EXTINF:-1,AZTECA UNO
+http://23.237.54.42/hls/AZTECA1MX.m3u8
+
+#EXTINF:-1, AZTECA UNO HD
+http://regioflix.club/Sr_Regio20/tp.php?c=7&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, AZ CLIC HD
+http://regioflix.club/Sr_Regio20/tp.php?c=11&p=3&k=srregio&f=.m3u8 
+ 
+#EXTINF:-1, AZTECA 7 HD 
+http://regioflix.club/Sr_Regio20/tp.php?c=317&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, LAS ESTRELLAS
+http://regioflix.club/Sr_Regio20/tp.php?c=17&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1,CANAL 5
+http://23.237.54.42/hls/CANAL5MX.m3u8
+
+#EXTINF:-1, CANAL 5 HD (2)
+http://regioflix.club/Sr_Regio20/tp.php?c=1785&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1,CANAL 9
+http://23.237.54.42/hls/CANAL9MX.m3u8
+
+#EXTINF:-1,CANAL ONCE
+http://23.237.54.42/hls/CANAL11MX.m3u8
+
+#EXTINF:-1, ONCE HD 
+http://regioflix.club/Sr_Regio20/tp.php?c=1942&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal111.png" group-title="Mexico", Canal Once MMEXICO
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pY3thtm.jpg" group-title="MEXICO",GLITZ
+http://tvpremiumhd.club/lista-gratuita/213011/tv/live.php?id=2150
+
+#EXTINF:-1, Wow tv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 ,TELEMAX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+
+#EXTINF:-1 ,Milenio | SD
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/959148019479470080/VIP_8lbP_400x400.jpg",MUNDO +
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RcHaKDY.png" group-title="MEXICO",Canal 10 Cancun HD
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:0 tvg-logo="", France 24
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+
+#EXTINF:0 tvg-logo="", DW
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+#EXTINF:0 tvg-logo="", NASA Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:0 tvg-logo="", Milenio
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:0 tvg-logo="", Azteca 7
+https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/2dd7280d-f4dc-4dcf-9e01-9cea2fb3979b:BRU/master.m3u8
+
+#EXTINF:0 tvg-logo="", Vibe TV
+https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MThkXS.png" group-title="MEXICO",MX: MULTIMEDIOS GUADALAJARA
+http://tvpremiumhd.club/lista-gratuita/181527/on/live.php?id=mdstrm.com/live-stream-playlist_1200/5c54d38ca392a5119bb0aa0d.m3u8
+
+#EXTINF:0 tvg-logo="", Canal 6 Monterrey
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:0 tvg-logo="", Canal 6 CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+#EXTINF:0 tvg-logo="", Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:0 tvg-logo="", Canal ONCE
+https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="LATINOS",Once Internacional
+http://tvpremiumhd.club/lista-gratuita/181527/on/lives.php?id=live2.canaloncelive.tv/livepkgr2/internacional.smil/.m3u8
+
+#EXTINF:0 tvg-logo="", Quiero TV
+https://quierotvlive.tk/httplive/playlist.m3u8
+
+#EXTINF:0 tvg-logo="", NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:0 tvg-logo="", Multivision
+https://panel.dattalive.com/8250/8250/.m3u8
+
+#EXTINF:0 tvg-logo="", RCN
+https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
+
+#EXTINF:0 tvg-logo="", NexTV
+http://198.1.123.99:1935/live/myStream/.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dw.com/cssi/dwlogo-print.gif" group-title="NOTICIAS", DW Latino
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1,FOX ACTION
+http://23.237.54.42/hls/FOXACTIONMX.m3u8
+
+#EXTINF:-1,FOX CINEMA
+http://23.237.54.42/hls/FOXCINEMAMX.m3u8
+
+#EXTINF:-1,FOX MOVIES
+http://23.237.54.42/hls/FOXMOVIESMX.m3u8
+
+#EXTINF:-1,FOX SERIES
+http://23.237.54.42/hls/FOXSERIESMX.m3u8
+
+#EXTINF:-1,SPACE
+http://experiencetv.zapto.org:25468/expertvconx/expert02/7
+
+#EXTINF:-1,STUDIO UNIVERSAL
+http://experiencetv.zapto.org:25468/expertvconx/expert02/16
+
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://experiencetv.zapto.org:25468/expertvconx/expert02/24
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTQ34MMhpGPSUHW33iXKtDd5Tw-hdSeqkrbvA35W-UPgfn-23E" group-title="ESPAÑA",MOVISTAR ESTRENOS (ESP)
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-comedia.jpg.pagespeed.ic.zZUxRAcn7e.jpg" group-title="ESPAÑA",MOVISTAR COMEDIA (ESP)
+
+#EXTINF:-1 tvg-logo="https://verliga1.net/wp-content/uploads/2017/01/drama.png" group-title="ESPAÑA",MOVISTAR DRAMA (ESP)
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-accion.jpg.pagespeed.ic.8XNnGybpzf.jpg" group-title="ESPAÑA",MOVISTAR ACCION (ESP)
+
+#EXTINF:-1,GOLDEN
+http://experiencetv.zapto.org:25468/expertvconx/expert02/55
+
+#EXTINF:-1,GOLDEN
+http://23.237.54.42/hls/GOLDENMX.m3u8
+
+#EXTINF:-1,GOLDEN EDGE
+http://23.237.54.42/hls/GOLDENEDGEMX.m3u8
+
+#EXTINF:-1,GOLDEN PLUS
+http://23.237.54.42/hls/GOLDENPLUSMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cablevida.com.mx/assets/img/canales/Panico.png" group-title="Cine", PANICO HD
+http://170.178.189.66:1935/live/Stream1/.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfoY9DXKkykRMowbV8iIWeLxeoTCE1NQTg5RBEKHwYv_ei70k5" group-title="PREMIUM LATINA 3",MULTIPREMIER (LAT)
+
+#EXTINF:-1, A3CINE 
+http://regioflix.club/Sr_Regio20/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, TBS SD  
+http://regioflix.club/Sr_Regio20/tp.php?c=81&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, DE PELICULA + 
+http://regioflix.club/Sr_Regio20/tp.php?c=121&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, SPACE
+http://regioflix.club/Sr_Regio20/tp.php?c=129&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, AMC 
+http://regioflix.club/Sr_Regio20/tp.php?c=131&p=3&k=srregio&f=.m3u8 
+ 
+#EXTINF:-1, STUDIO UNIVERSAL
+http://regioflix.club/Sr_Regio20/tp.php?c=132&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, UNIVERSAL HD
+http://regioflix.club/Sr_Regio20/tp.php?c=207&p=3&k=srregio&f=.m3u8   
+
+#EXTINF:-1, I SAT  
+http://regioflix.club/Sr_Regio20/tp.php?c=135&p=3&k=srregio&f=.m3u8 
+ 
+#EXTINF:-1, EUROPA CHANNEL 
+http://regioflix.club/Sr_Regio20/tp.php?c=136&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, FILMS & ARTS
+http://regioflix.club/Sr_Regio20/tp.php?c=137&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1,FX
+http://23.237.54.42/hls/FXMX.m3u8
+
+#EXTINF:-1, FX HD
+http://regioflix.club/Sr_Regio20/tp.php?c=209&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1,FMX
+http://experiencetv.zapto.org:25468/expertvconx/expert02/21
+
+#EXTINF:-1,AMC
+http://experiencetv.zapto.org:25468/expertvconx/expert02/22 
+
+#EXTINF:-1, CINECANAL
+http://regioflix.club/Sr_Regio20/tp.php?c=149&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, CINEMAX 
+http://regioflix.club/Sr_Regio20/tp.php?c=158&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, AZ CINEMA 
+http://regioflix.club/Sr_Regio20/tp.php?c=1787&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reQVf/4dc9bf5f4d.png" group-title="CINE",DE PELICULA CLASICO
+http://tvpremiumhd.club/lista-gratuita/213011/tv/live.php?id=2231
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reQVf/4dc9bf5f4d.png" group-title="CINE",DE PELICULA PLUS
+http://tvpremiumhd.club/lista-gratuita/213011/tv/live.php?id=2149
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RzECEbR.png" group-title="CINE",DIRECTV CINEMA
+http://tvpremiumhd.club/lista-gratuita/213011/tv/live.php?id=1243
+
+#EXTINF:-1 ,movies
+http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-ID="24/7 PELICULAS 4K (SE RECOMIENDA +25MB)" tvg-name="24/7 PELICULAS 4K (SE RECOMIENDA +25MB)" tvg-logo="https://i.imgur.com/g0pHpyQ.jpg" group-title="CANALES 24/7",24/7 PELICULAS 4K (SE RECOMIENDA +25MB)
+http://tvpremiumhd.club/lista-gratuita/183003/on/bi.php?id=2NFH3Q0
+
+#EXTINF:-1 tvg-ID="24/7 LOS SIMPSON 16-28" tvg-name="24/7 LOS SIMPSON 16-28" tvg-logo="https://i.imgur.com/WJQ6pYN.jpg" group-title="CANALES 24/7",24/7 LOS SIMPSON 16-28
+http://tvpremiumhd.club/lista-gratuita/183003/tv/live.php?id=2041
+
+
+#EXTINF:-1,ANIMAL PLANET
+http://23.237.54.42/hls/ANIMALPLANETMX.m3u8
+
+#EXTINF:-1,NAT GEO
+http://23.237.54.42/hls/NATGEOMX.m3u8
+
+#EXTINF:-1,NATGEO WILL
+http://23.237.54.42/hls/NATGEOWILDMX.m3u8
+
+#EXTINF:-1, DISCOVERY CHANNEL
+http://regioflix.club/Sr_Regio20/tp.php?c=86&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, DISCOVERY THEATER
+http://regioflix.club/Sr_Regio20/tp.php?c=95&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, DISCOVERY WORLD
+http://regioflix.club/Sr_Regio20/tp.php?c=101&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, DISCOVERY SCIENCE  
+http://regioflix.club/Sr_Regio20/tp.php?c=98&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, DISCOVERY CIVILIZATION
+http://regioflix.club/Sr_Regio20/tp.php?c=99&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, H&H
+http://regioflix.club/Sr_Regio20/tp.php?c=96&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1,DISCOVERY TURBO
+http://experiencetv.zapto.org:25468/expertvconx/expert02/69
+
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://experiencetv.zapto.org:25468/expertvconx/expert02/71
+
+#EXTINF:-1,HISTORY
+http://23.237.54.42/hls/HISTORYMX.m3u8
+
+#EXTINF:-1 tvg-id="History2LatinAmerica.pa" tvg-name="DOC-H2" tvg-logo="https://1.bp.blogspot.com/-xSsX0Ia8wF4/XaukdVsLyAI/AAAAAAAAAfo/k34jiOUjQKYMLSGBsGCOIR2ZZTKD7tkhQCLcBGAsYHQ/s200/12.png" group-title="DOCUMENTALES",H2 
+http://tvpremiumhd.club/lista-gratuita/211527/tv/live.php?id=1062
+
+
+#EXTINF:-1,GOURMET
+http://23.237.54.42/hls/GOURMETMX.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL3rTk0N8ayS3BhI8fBC9273CO7VOfmib1ZU0I9jUgMSx49g-u" group-title="ESPAÑA",CANAL COCINA (ESP)
+
+#EXTINF:-1,TRU TV
+http://experiencetv.zapto.org:25468/expertvconx/expert02/59
+
+#EXTINF:-1,TLC
+http://experiencetv.zapto.org:25468/expertvconx/expert02/78
+
+#EXTINF:-1,FOX LIFE
+http://experiencetv.zapto.org:25468/expertvconx/expert02/10
+
+#EXTINF:-1, SHOPPING
+http://regioflix.club/Sr_Regio20/tp.php?c=1943&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, FOOD NETWORK 
+http://regioflix.club/Sr_Regio20/tp.php?c=2145&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, STAR TVE 
+http://regioflix.club/Sr_Regio20/tp.php?c=2375&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, WARNER HD 
+http://regioflix.club/Sr_Regio20/tp.php?c=205&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1,WARNER
+http://23.237.54.42/hls/WARNERCHANNELMX.m3u8
+
+#EXTINF:-1, UNIVERSAL HD
+http://regioflix.club/Sr_Regio20/tp.php?c=207&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, FX HD
+http://regioflix.club/Sr_Regio20/tp.php?c=209&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, TRUTV HD
+http://regioflix.club/Sr_Regio20/tp.php?c=215&p=3&k=srregio&f=.m3u8 
+ 
+#EXTINF:-1, HOLA TV HD
+http://regioflix.club/Sr_Regio20/tp.php?c=219&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, COMEDY CENTRAL
+http://regioflix.club/Sr_Regio20/tp.php?c=340&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1,FOX CHANEL
+http://experiencetv.zapto.org:25468/expertvconx/expert02/12
+
+#EXTINF:-1, FOX HD 
+http://regioflix.club/Sr_Regio20/tp.php?c=201&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1,TNT
+http://experiencetv.zapto.org:25468/expertvconx/expert02/17
+
+#EXTINF:-1,TNT SERIES 
+http://experiencetv.zapto.org:25468/expertvconx/expert02/18
+
+#EXTINF:-1,A&E
+http://experiencetv.zapto.org:25468/expertvconx/expert02/19
+
+#EXTINF:-1,AXN
+http://experiencetv.zapto.org:25468/expertvconx/expert02/23
+    
+#EXTINF:-1,SYFY
+http://23.237.54.42/hls/SYFYMX.m3u8
+
+#EXTINF:-1, SONY  
+http://regioflix.club/Sr_Regio20/tp.php?c=48&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1,TBS
+http://23.237.54.42/hls/TBSMX.m3u8
+
+#EXTINF:-1,TCM
+http://23.237.54.42/hls/TCMMX.m3u8
+
+#EXTINF:-1,DISTRITO COMEDIA 
+http://experiencetv.zapto.org:25468/expertvconx/expert02/80
+
+#EXTINF:-1,TV MAS
+http://23.237.54.42/hls/TVMASMX.m3u8
+
+#EXTINF:-1, UNICABLE SD
+http://regioflix.club/Sr_Regio20/tp.php?c=66&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, SUNDANCE TV
+http://regioflix.club/Sr_Regio20/tp.php?c=69&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, GLITZ
+http://regioflix.club/Sr_Regio20/tp.php?c=76&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, UNICABLE
+http://regioflix.club/Sr_Regio20/tp.php?c=1499&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, GOURMET 
+http://regioflix.club/Sr_Regio20/tp.php?c=74&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, TELEMUNDO INTERNACIONAL HD
+http://regioflix.club/Sr_Regio20/tp.php?c=85&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, ADN 40 HD
+http://regioflix.club/Sr_Regio20/tp.php?c=184&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, CNN
+http://regioflix.club/Sr_Regio20/tp.php?c=185&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, DW 
+http://regioflix.club/Sr_Regio20/tp.php?c=203&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD" tvg-logo="http://puu.sh/reMym/28fb4e2cc5.png" group-title="NOTICIAS",BBC WORLD
+http://tvpremiumhd.club/lista-gratuita/213011/tv/live.php?id=2605 
+
+#EXTINF:-1, TVE
+http://regioflix.club/Sr_Regio20/tp.php?c=198&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/la-1-en-directo-online.png?resize=324%2C235" group-title="ESPAÑA",LA 1 (ESP)
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899384654259736578/JcRiYU5A.jpg" group-title="ESPAÑA",LA 2 HD (ESP)
+
+#EXTINF:-1, ANTENA 3
+http://regioflix.club/Sr_Regio20/tp.php?c=199&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-PN9r5zshzt7tbjxwxBBag2zHago0zomhFHYOnYCkiUv_SR3W" group-title="ESPAÑA",A3SERIES (ESP)
+
+#EXTINF:-1 tvg-id="Cuatro.TV" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200" group-title="Generalistas" tvg-name="Cuatro",Cuatro HD
+https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
+
+#EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="https://graph.facebook.com/tele5/picture?width=200&height=200" group-title="Generalistas" tvg-name="Telecinco",Telecinco HD
+https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0e/LaSexta_2008.jpg/revision/latest?cb=20161022151112" group-title="ESPAÑA",LA SEXTA (ESP)
+
+#EXTINF:-1 tvg-id="FDF.TV" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200" group-title="Generalistas" tvg-name="FDF",FDF HD
+https://linear02-i.akamaihd.net/hls/live/837813/fdf/01.m3u8
+
+#EXTINF:-1 tvg-id="Divinity.TV" tvg-logo="https://graph.facebook.com/divinityes/picture?width=200&height=200" group-title="Generalistas" tvg-name="Divinity",Divinity HD
+https://linear01-i.akamaihd.net/hls/live/837812/divinity/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MThkXS.png" group-title="MEXICO",MX: MIAMI TV
+http://tvpremiumhd.club/lista-gratuita/181527/on/lives.php?id=59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w1960084348_b2592000.m3u8
+
+
+#EXTINF:-1, MTV LIVE
+http://regioflix.club/Sr_Regio20/tp.php?c=211&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, MTV
+http://regioflix.club/Sr_Regio20/tp.php?c=212&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, MTV HITS SD
+http://regioflix.club/Sr_Regio20/tp.php?c=213&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, VH1 CLASSIC SD
+http://regioflix.club/Sr_Regio20/tp.php?c=214&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, VH1 SD 
+http://regioflix.club/Sr_Regio20/tp.php?c=217&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, VH1 HD
+http://regioflix.club/Sr_Regio20/tp.php?c=334&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, TELEHIT URBANO SD
+http://regioflix.club/Sr_Regio20/tp.php?c=218&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, TELEHIT +
+http://regioflix.club/Sr_Regio20/tp.php?c=220&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hWMFLTh.png" group-title="ARGENTINA",Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTL102.5/picture?width=200&height=200" group-title="Musicales" tvg-name="RTL 102.5 Italia",RTL 102.5 Italia IT
+https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/kronehit/picture?width=200&height=200" group-title="Musicales" tvg-name="Kronehit Austria",Kronehit Austria
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/QmusicNL/picture?width=200&height=200" group-title="Musicales" tvg-name="QMusic Holanda",QMusic Holanda
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/nrj.be/picture?width=200&height=200" group-title="Musicales" tvg-name="NRJ Bélgica",NRJ Bélgica FR
+https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/DancestarTV/picture?width=200&height=200" group-title="Musicales" tvg-name="DanceStar TV",DanceStar TV EN
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Ambient",Loca FM Ambient
+http://audio-online.net:8007/live
+
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Chill out",Loca FM Chill out
+http://audio-online.net:8002/live
+
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Trance",Loca FM Trance
+http://audio-online.net:8010/live
+
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM House",Loca FM House
+http://audio-online.net:8005/live
+
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Tech House",Loca FM Tech House
+http://audio-online.net:8008/live
+
+
